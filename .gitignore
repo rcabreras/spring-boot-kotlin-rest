@@ -6,6 +6,7 @@ build/
 *.iml
 .gradle/
 /out/
+/target/
 
 # Log file
 *.log
